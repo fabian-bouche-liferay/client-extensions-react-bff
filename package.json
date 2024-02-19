@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "workspaces": {
+        "packages": [
+            "client-extensions\\kong-react",
+            "client-extensions\\liferay-sample-custom-element-react-dom",
+            "client-extensions\\liferay-sample-custom-element-react-scripts"
+        ]
+    }
+}

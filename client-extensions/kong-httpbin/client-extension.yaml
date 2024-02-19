@@ -1,0 +1,7 @@
+kong-httpbin-oauth-application-user-agent:
+    .serviceAddress: localhost:8000
+    .serviceScheme: http
+    name: Kong httpbin OAuth Application User Agent
+    scopes:
+        - liferay-json-web-services.httpbin.read
+    type: oAuthApplicationUserAgent

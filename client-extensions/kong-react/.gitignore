@@ -1,0 +1,5 @@
+.settings/
+build/
+dist/
+node_modules/
+.project

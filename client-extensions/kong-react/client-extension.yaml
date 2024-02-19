@@ -1,0 +1,13 @@
+assemble:
+    - from: build/static
+      into: static
+kong-react-custom-element:
+    friendlyURLMapping: kong-react
+    htmlElementName: kong-react
+    instanceable: false
+    name: Kong React Custom Element
+    portletCategoryName: category.client-extensions
+    type: customElement
+    urls:
+        - js/main.*.js
+    useESM: true
