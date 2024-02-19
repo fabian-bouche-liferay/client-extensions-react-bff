@@ -1,6 +1,7 @@
 # BFF for Liferay React client extension
 
 This workspace illustrates how you can create a BFF client extension
+(Backend For Frontend)
 so that requests to backend services are proxified through Liferay.
 
 ## Configure service access policy to create a new OAuth 2.0 scope
